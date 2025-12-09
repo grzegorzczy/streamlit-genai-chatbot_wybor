@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-google-genai
+
+ollama    # tylko jeśli chcesz używać lokalnego Ollama
